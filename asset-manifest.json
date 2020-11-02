@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FacialLandmarkDetection/static/css/main.5f361e03.chunk.css",
+    "main.js": "/FacialLandmarkDetection/static/js/main.297a1688.chunk.js",
+    "main.js.map": "/FacialLandmarkDetection/static/js/main.297a1688.chunk.js.map",
+    "runtime-main.js": "/FacialLandmarkDetection/static/js/runtime-main.733a765a.js",
+    "runtime-main.js.map": "/FacialLandmarkDetection/static/js/runtime-main.733a765a.js.map",
+    "static/js/2.f0b5ab4c.chunk.js": "/FacialLandmarkDetection/static/js/2.f0b5ab4c.chunk.js",
+    "static/js/2.f0b5ab4c.chunk.js.map": "/FacialLandmarkDetection/static/js/2.f0b5ab4c.chunk.js.map",
+    "index.html": "/FacialLandmarkDetection/index.html",
+    "precache-manifest.ebf1428b5a0eacdc62f14dea20044d08.js": "/FacialLandmarkDetection/precache-manifest.ebf1428b5a0eacdc62f14dea20044d08.js",
+    "service-worker.js": "/FacialLandmarkDetection/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/FacialLandmarkDetection/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f0b5ab4c.chunk.js.LICENSE.txt": "/FacialLandmarkDetection/static/js/2.f0b5ab4c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.733a765a.js",
+    "static/js/2.f0b5ab4c.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.297a1688.chunk.js"
+  ]
+}
